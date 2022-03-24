@@ -123,7 +123,7 @@ header img {
 
 #hero {
     height: 700px;
-    background-image: url(/img/stranger_things.jpg);
+    background-image: url("../img/stranger_things.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
